@@ -1,4 +1,3 @@
 <?php
-
-const nomor_hp = "082324838948";
-const password = "4d1tya12";
+define('NOMOR_HP', '082324838948');
+define('PASSWORD', '4d1tya12');
